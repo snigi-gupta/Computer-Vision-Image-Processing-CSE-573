@@ -4,14 +4,6 @@ Image Filtering
 
 The goal of this task is to experiment with image filtering and familiarize you with 'tricks', e.g., padding, commonly used by computer vision 'researchers'.
 
-Please complete all the functions that are labelled with '# TODO'. Steps to complete those functions are provided to make your lives easier. When implementing those functions, comment the lines 'raise NotImplementedError' instead of deleting them. The functions defined in 'utils.py'
-are building blocks you could use when implementing the functions labelled with 'TODO'.
-
-I strongly suggest you read the function 'zero_pad' and 'crop' that are defined in 'utils.py'. You will need them!
-
-Do NOT modify the code provided to you.
-Do NOT use ANY API provided by opencv (cv2) and numpy (np) in your code.
-Do NOT import ANY library (function, module, etc.).
 """
 
 import argparse
